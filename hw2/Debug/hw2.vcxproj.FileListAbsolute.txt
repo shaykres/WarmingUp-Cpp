@@ -1,0 +1,2 @@
+C:\Users\Shay\Downloads\hw2\Debug\hw2.exe
+C:\Users\Shay\Downloads\hw2\Debug\hw2.pdb
